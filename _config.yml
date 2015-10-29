@@ -6,7 +6,8 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Michael Tan <freonix> 
+title: Michael Tan 
+name: Michael Tan <freonix>
 email: tansiaolip//@//gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
