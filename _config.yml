@@ -10,8 +10,8 @@ title: Enigma and Cipher
 name: Michael Tan <freonix>
 email: tansiaolip//@//gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-	Rambling of the a engineer in search
-	of greater and something more. 
+  Rambling of the a engineer in search
+  of greater and something more. 
 baseurl: ""  
 url: "http://freonix.github.io" # the base hostname & protocol for your site
 github_username: freonix 
