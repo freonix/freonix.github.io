@@ -6,13 +6,12 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Michael Tan 
+title: Enigma and Cipher 
 name: Michael Tan <freonix>
 email: tansiaolip//@//gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+	Rambling of the a engineer in search
+	of greater and something more. 
 baseurl: ""  
 url: "http://freonix.github.io" # the base hostname & protocol for your site
 github_username: freonix 
