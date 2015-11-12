@@ -8,7 +8,9 @@
 # Site settings
 title: Cipher and Enigma
 name: Michael Tan <freonix>
-email: tansiaolip//@//gmail.com (Human, you know what to do)
+email: > 
+    tansiaolip//@//gmail.com  
+    (Human, you know what to do)
 description: > # this means to ignore newlines until "baseurl:"
   Rambling of the a lowly engineer in search
   of the greater and much more. 
